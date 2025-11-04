@@ -3,10 +3,7 @@ package model;
 public class Gasto {
 
 
-    /* Atributos
-        - nombreGasto(String): Nombre del Gasto
-        - costoGasto(double): Costo del Gasto
-    */    
+
 
     private String nombreGasto;
     private double costoGasto;
