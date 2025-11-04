@@ -10,6 +10,7 @@ public class Gasto {
 
     private String nombreGasto;
     private double costoGasto;
+    private int contador = 0;
 
     //metodos
 
